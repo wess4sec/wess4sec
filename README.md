@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Oussama 👋
 
-<!--
-**wess4sec/wess4sec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity student focused on Penetration Testing, Active Directory Security, and SOC Operations.
 
-Here are some ideas to get you started:
+## Areas of Interest
+- Active Directory Attack & Defense
+- Web Application Security
+- Threat Detection & SIEM
+- Privilege Escalation
+- Incident Response
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Certifications
+- eJPTv2
+- CompTIA A+
+- CompTIA Network+
+- IBM Cybersecurity Fundamentals
+
+## Platforms
+- TryHackMe Top 3%
+- Hack The Box Labs
+
+## Tools
+Burp Suite • BloodHound • Wazuh • Impacket • Wireshark • Nmap
+
+## Contact
+- LinkedIn: linkedin.com/in/oussama-zehri
+- Portfolio: wess4sec.github.io
